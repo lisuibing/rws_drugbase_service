@@ -1,0 +1,6 @@
+2021-01-27 17:29:44 CST INFO  org.springframework.boot.StartupInfoLogger 55 logStarting - Starting RwsDrugBaseServiceApplication v0.0.1-SNAPSHOT on DESKTOP-QANQCHK with PID 15108 (C:\Users\86187\Desktop\20210126\rws_drugbase_service\target\rws_drugbase_service-0.0.1-SNAPSHOT.jar started by 86187 in C:\Users\86187\Desktop\20210126\rws_drugbase_service\target)
+2021-01-27 17:29:44 CST DEBUG org.springframework.boot.StartupInfoLogger 56 logStarting - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-01-27 17:29:44 CST INFO  org.springframework.boot.SpringApplication 651 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2021-01-27 17:31:16 CST INFO  org.springframework.boot.StartupInfoLogger 55 logStarting - Starting RwsDrugBaseServiceApplication v0.0.1-SNAPSHOT on DESKTOP-QANQCHK with PID 17620 (C:\Users\86187\Desktop\20210126\rws_drugbase_service\target\rws_drugbase_service-0.0.1-SNAPSHOT.jar started by 86187 in C:\Users\86187\Desktop\20210126\rws_drugbase_service\target)
+2021-01-27 17:31:16 CST DEBUG org.springframework.boot.StartupInfoLogger 56 logStarting - Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2021-01-27 17:31:16 CST INFO  org.springframework.boot.SpringApplication 651 logStartupProfileInfo - No active profile set, falling back to default profiles: default
